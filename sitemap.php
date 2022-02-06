@@ -1,7 +1,7 @@
 <?php
 
 // HOST
-$host = "https://kreativ-anders.de/";
+$host = "https://[YOUR_DOMAIN].[TLD]/";
 
 // IGNORE
 $ignore = array('.git', '.github', 'node_modules', '_assets', '_mixins', '_snippets', '_drafts');
