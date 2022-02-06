@@ -1,7 +1,7 @@
 <?php
 
 // HOST
-$host = "https://[YOUR_DOMAIN].[TLD]/";
+$host = "https://[YOUR DOMAIN].[TLD]/";
 
 // IGNORE
 $ignore = array('.git', '.github', 'node_modules', '_assets', '_mixins', '_snippets', '_drafts');
